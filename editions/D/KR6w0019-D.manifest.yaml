@@ -1,0 +1,202 @@
+canonical_identifier: bkk:krp/KR6w0019/D/v1
+canonical_location: https://kanripo.org/bkk/KR6w0019/D/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大日經劫心義章
+  identifiers:
+    krp: KR6w0019
+    cbeta: D19n8864
+    cbeta_old_id: D19n8864
+    authorityid: CA0008018
+    json_key: D8864
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D19/D19n8864.xml
+    old_id: D19n8864
+  edition:
+    short: D
+assets:
+  parts:
+  - {seq: 0, filename: KR6w0019_000-D.yaml, hash: 'sha256:381406bcfe15617492fa2c47188935745b0165aecb05e82f7ab8ca1cde8148d4'}
+  - {seq: 1, filename: KR6w0019_001-D.yaml, hash: 'sha256:15a99767d2487aa972e62dcc5f96645c80b3ee7579c8d221967cbd0430566e18'}
+  - {seq: 2, filename: KR6w0019_002-D.yaml, hash: 'sha256:02cc56d0e771d2de6499ffc4e7f6142dda60ab2971f631ff0d035c1091915d4c'}
+  - {seq: 3, filename: KR6w0019_003-D.yaml, hash: 'sha256:793c81d2033cae08b76091e641b46019e4ab048785ff9c608b978d2e198ded1d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6w0019_000-D.markers.yaml, hash: 'sha256:9383407fcbab8066b4f130e7c3e33be7c9594a6879138de15705fcaccfa18c95'}
+  - {seq: 1, role: markers, filename: assets/KR6w0019_001-D.markers.yaml, hash: 'sha256:bf9ce47a6a4edcc554b4223bea1ae65e74b5f984e14f848c41819569e502a3ef'}
+  - {seq: 2, role: markers, filename: assets/KR6w0019_002-D.markers.yaml, hash: 'sha256:d132044651e014089f6d69c85bc2552c4d85e44a92ea1e5a16eccedc10983f09'}
+  - {seq: 3, role: markers, filename: assets/KR6w0019_003-D.markers.yaml, hash: 'sha256:df2b9112f3a62b969009716fe6f4053f3d8bfe74b2ae5d3da161cc4709e703ae'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6w0019_D_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0019_D_001-juan-start
+    span:
+    - body
+    - 0
+    - 10925
+  label: 大日經劫心義章卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0019_D_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 三劫義第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0019_D_001-mulu-2
+    span:
+    - body
+    - 1586
+    - 1586
+  label: 十住心義第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0019_D_001-mulu-3
+    span:
+    - body
+    - 5491
+    - 5491
+  label: 住心因由義第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0019_D_001-mulu-4
+    span:
+    - body
+    - 8819
+    - 8819
+  label: 菩提心心相義第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0019_D_002-juan-start
+    span:
+    - body
+    - 0
+    - 12033
+  label: 大日經劫心義章卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0019_D_002-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 湛寂寂然界義第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0019_D_002-mulu-2
+    span:
+    - body
+    - 2923
+    - 2923
+  label: 寂然界體法空義第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0019_D_002-mulu-3
+    span:
+    - body
+    - 8373
+    - 8373
+  label: 湛寂寂然界章段義第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0019_D_002-mulu-4
+    span:
+    - body
+    - 9159
+    - 9159
+  label: 兩種外道義第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0019_D_002-mulu-5
+    span:
+    - body
+    - 10251
+    - 10251
+  label: 寂然界攝屬義第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0019_D_003-juan-start
+    span:
+    - body
+    - 0
+    - 11406
+  label: 大日經劫心義章卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0019_D_003-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 真言門脩行菩薩義第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0019_D_003-mulu-2
+    span:
+    - body
+    - 4084
+    - 4084
+  label: 警覺八九住心分別義第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0019_D_003-mulu-3
+    span:
+    - body
+    - 7136
+    - 7136
+  label: 警覺初地八地同異義第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6w0019_D_003-mulu-4
+    span:
+    - body
+    - 9215
+    - 9215
+  label: 一乘圓教不經劫義第十三
+  type: mulu
+  level: 1
+hash: sha256:04fb3dbaed8ba0c640ad4e3d8243ffa312a257239ac96076e6f99c8eb8394bae
