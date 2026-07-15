@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6w0019/v1
 canonical_location: https://kanripo.org/bkk/KR6w0019/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大日經劫心義章
   source:
@@ -18,15 +18,15 @@ editions:
 - short: D
 assets:
   parts:
-  - {seq: 0, filename: KR6w0019_000.yaml, hash: 'sha256:381406bcfe15617492fa2c47188935745b0165aecb05e82f7ab8ca1cde8148d4'}
-  - {seq: 1, filename: KR6w0019_001.yaml, hash: 'sha256:15a99767d2487aa972e62dcc5f96645c80b3ee7579c8d221967cbd0430566e18'}
-  - {seq: 2, filename: KR6w0019_002.yaml, hash: 'sha256:02cc56d0e771d2de6499ffc4e7f6142dda60ab2971f631ff0d035c1091915d4c'}
-  - {seq: 3, filename: KR6w0019_003.yaml, hash: 'sha256:793c81d2033cae08b76091e641b46019e4ab048785ff9c608b978d2e198ded1d'}
+  - {seq: 0, filename: KR6w0019_000.yaml, hash: 'sha256:3daceac7f52e98c93185fffdc8a1cb058ebe244cf9181931feda05a939b32d17'}
+  - {seq: 1, filename: KR6w0019_001.yaml, hash: 'sha256:b812342b698d8cdcd02c226560942b4ad27d5999e897571b2038a1f8cabc3d50'}
+  - {seq: 2, filename: KR6w0019_002.yaml, hash: 'sha256:2cc00ab3731d157cc28e97ebdee6d1906cee87408a0f22f806bc3eeb86ee4e0f'}
+  - {seq: 3, filename: KR6w0019_003.yaml, hash: 'sha256:55dd1780518011b9fb846adf45764fb97d44047ef47f8285016bf2af4364751b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6w0019_000.markers.yaml, hash: 'sha256:1eb39760dac7bbf1dc5d55e3c146255029cecd4673087c762b99706e3c726fa2'}
-  - {seq: 1, role: markers, filename: assets/KR6w0019_001.markers.yaml, hash: 'sha256:abf63b53400778b720f5d4b9a44921cb9597d88d824e954f685fe0ffaa59bc10'}
-  - {seq: 2, role: markers, filename: assets/KR6w0019_002.markers.yaml, hash: 'sha256:15c713a144db5f3ba0ee85768a7176dbea6b04afe092bead6cfc8e2958d0c4d2'}
-  - {seq: 3, role: markers, filename: assets/KR6w0019_003.markers.yaml, hash: 'sha256:517fb24cb8b80e755a3fd22fd0f071fbd13db6d748ff2eaf4bdffee1de0e35da'}
+  - {seq: 0, role: markers, filename: assets/KR6w0019_000.markers.yaml, hash: 'sha256:39f9e3ac5aa7fb1aa1da6f6571232550f06788e5371bdfcc4b35cfbb50744ed5'}
+  - {seq: 1, role: markers, filename: assets/KR6w0019_001.markers.yaml, hash: 'sha256:1e84b03f41bfbf80a966b9af1a6df6e311dc7bd0126791c9b28616d3d88fa0b1'}
+  - {seq: 2, role: markers, filename: assets/KR6w0019_002.markers.yaml, hash: 'sha256:9651a5c4029b1e06386c62b0ca31255f0c5a71987b553d4138183393358ed874'}
+  - {seq: 3, role: markers, filename: assets/KR6w0019_003.markers.yaml, hash: 'sha256:673987bbf42bf4b4386f157e457810d2135f9a542793ecf9faaa9b897d680b9f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -198,4 +198,7 @@ table_of_contents:
   label: 一乘圓教不經劫義第十三
   type: mulu
   level: 1
-hash: sha256:a6cdcf7076355d605511de1b1c7f536e047db88674bc43bcb2d53af0fd92c45f
+hash: sha256:5f5d3de26a81f504395fcfcb0cbf09960c416b9e843ed6b5bdb4ec819b3eca86
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
