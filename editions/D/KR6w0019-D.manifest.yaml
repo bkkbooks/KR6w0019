@@ -19,12 +19,12 @@ metadata:
     short: D
 assets:
   parts:
-  - {seq: 0, filename: KR6w0019_000-D.yaml, hash: 'sha256:381406bcfe15617492fa2c47188935745b0165aecb05e82f7ab8ca1cde8148d4'}
+  - {seq: 0, filename: KR6w0019_000-D.yaml, hash: 'sha256:2124ee53f0cd185dace61063060b8af1f4d46867295bc923ec00ffe015fd6750'}
   - {seq: 1, filename: KR6w0019_001-D.yaml, hash: 'sha256:15a99767d2487aa972e62dcc5f96645c80b3ee7579c8d221967cbd0430566e18'}
   - {seq: 2, filename: KR6w0019_002-D.yaml, hash: 'sha256:02cc56d0e771d2de6499ffc4e7f6142dda60ab2971f631ff0d035c1091915d4c'}
   - {seq: 3, filename: KR6w0019_003-D.yaml, hash: 'sha256:793c81d2033cae08b76091e641b46019e4ab048785ff9c608b978d2e198ded1d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6w0019_000-D.markers.yaml, hash: 'sha256:9383407fcbab8066b4f130e7c3e33be7c9594a6879138de15705fcaccfa18c95'}
+  - {seq: 0, role: markers, filename: assets/KR6w0019_000-D.markers.yaml, hash: 'sha256:eab698df65301cde35459497c6b0d95d6255ac240115c1e794996c19b048b879'}
   - {seq: 1, role: markers, filename: assets/KR6w0019_001-D.markers.yaml, hash: 'sha256:bf9ce47a6a4edcc554b4223bea1ae65e74b5f984e14f848c41819569e502a3ef'}
   - {seq: 2, role: markers, filename: assets/KR6w0019_002-D.markers.yaml, hash: 'sha256:d132044651e014089f6d69c85bc2552c4d85e44a92ea1e5a16eccedc10983f09'}
   - {seq: 3, role: markers, filename: assets/KR6w0019_003-D.markers.yaml, hash: 'sha256:df2b9112f3a62b969009716fe6f4053f3d8bfe74b2ae5d3da161cc4709e703ae'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0019_D_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -199,4 +199,4 @@ table_of_contents:
   label: 一乘圓教不經劫義第十三
   type: mulu
   level: 1
-hash: sha256:04fb3dbaed8ba0c640ad4e3d8243ffa312a257239ac96076e6f99c8eb8394bae
+hash: sha256:e42f460f78870c524b877c4349fe70a4c66e0930b4f269a3d443f17196ef94e5
